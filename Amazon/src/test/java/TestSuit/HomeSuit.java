@@ -10,6 +10,7 @@ import utils.OpenBrowser;
 
 public class HomeSuit extends OpenBrowser{
 	@Test
+	// Demo
 	public void date(){
 		new LoginPage(driver)
 		.clickSigninLink();
